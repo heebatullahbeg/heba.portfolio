@@ -68,7 +68,7 @@ Research Communication & Methodology
 
 ## 🎓 Education
 
-Details of my education and certifications are available in my [LinkedIn Profile]([url](http://linkedin.com/in/heebatullah-beg/)) or can be shared upon request.
+Details of my education and certifications are available in my [LinkedIn Profile](http://linkedin.com/in/heebatullah-beg/) or can be shared upon request.
 
 ## 🤝 Let's Connect
-For collaboration or opportunities, feel free to reach out via [LinkedIn]([url](http://linkedin.com/in/heebatullah-beg/)).
+For collaboration or opportunities, feel free to reach out via [LinkedIn](http://linkedin.com/in/heebatullah-beg/).
