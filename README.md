@@ -10,7 +10,7 @@ Created a deep reinforcement learning (DRL) system for recommending personalized
 
 **Skills:** Python, Deep Reinforcement Learning, GANs, Research Methods
 
-**Link:** [View Project](https://dspace.library.uvic.ca/items/171fd945-20f5-4e5d-89be-968944cda282)
+**Link:** [Publication](https://dspace.library.uvic.ca/items/171fd945-20f5-4e5d-89be-968944cda282)
 
 ### 📈 Reinforcement Learning for Crypto Trading
 
