@@ -1,6 +1,7 @@
 # Heebatullah Beg
 
 ### Data Scientist | Data Analyst | Machine Learning Engineer
+[📄 Download PDF version of this Portfolio](https://heebatullahbeg.github.io/heba.portfolio.pdf)
 
 ## 🚀 Key Projects
 
